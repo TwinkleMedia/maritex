@@ -365,179 +365,166 @@ include "./navbar.php"
 
   </div>
 </section>
-
 <!-- CORE VALUES -->
-<section class="w-full py-10 bg-gray-50">
+<section class="w-full py-16 bg-gray-50">
   <div class="max-w-6xl mx-auto px-6 md:px-10">
 
     <!-- Section Heading -->
-    <div class="flex flex-col items-center mb-10">
-      <div class="w-10 h-[2px] bg-[#254991] mb-3 rounded-full"></div>
-      <h2 class="font-poppins font-semibold text-[#254991] text-xl sm:text-2xl tracking-widest uppercase">Core Values</h2>
-      <p class="font-poppins text-gray-500 text-xs mt-2 tracking-wide">The Principles We Stand By</p>
+    <div class="flex flex-col items-center mb-14">
+      <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
+      <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">Core Values</h2>
+      <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">The Principles We Stand By</p>
     </div>
 
-    <!-- Top Row — 2 large featured cards -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-4">
+    <!-- Main Layout — Left Title Block + Right Cards Grid -->
+    <div class="flex flex-col lg:flex-row gap-8 items-start">
 
-      <!-- Value 1 — Integrity -->
-      <div class="relative bg-[#254991] rounded-2xl overflow-hidden p-5 flex flex-col gap-3 group hover:shadow-xl transition-all duration-300">
+      <!-- Left — Sticky Title Panel -->
+      <div class="w-full lg:w-1/3 flex-shrink-0 lg:sticky lg:top-10">
 
-        <!-- BG Circles -->
-        <div class="absolute top-0 right-0 w-32 h-32 rounded-full bg-white/5 -translate-y-10 translate-x-10"></div>
-        <div class="absolute bottom-0 left-0 w-20 h-20 rounded-full bg-white/5 translate-y-8 -translate-x-6"></div>
+        <div class="relative bg-[#254991] rounded-2xl overflow-hidden px-7 py-8 flex flex-col gap-5">
 
-        <!-- Number -->
-        <span class="relative z-10 font-poppins font-semibold text-white/8 text-5xl leading-none absolute top-3 right-5 select-none">01</span>
+          <!-- BG Circle -->
+          <div class="absolute bottom-0 right-0 w-40 h-40 rounded-full bg-white/5 translate-y-14 translate-x-14"></div>
+          <div class="absolute top-0 left-0 w-24 h-24 rounded-full bg-white/5 -translate-y-10 -translate-x-10"></div>
 
-        <!-- Icon -->
-        <div class="relative z-10 w-10 h-10 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
-          <svg class="w-5 h-5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
-          </svg>
+          <!-- Icon -->
+          <div class="relative z-10 w-11 h-11 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
+            <svg class="w-5 h-5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+            </svg>
+          </div>
+
+          <div class="relative z-10 flex flex-col gap-2">
+            <div class="flex items-center gap-2">
+              <span class="block w-5 h-[2px] bg-[#7eb3ff] rounded-full"></span>
+              <span class="font-poppins text-[#7eb3ff] text-[10px] tracking-[0.3em] uppercase">Who We Are</span>
+            </div>
+            <h3 class="font-poppins font-semibold text-white text-xl leading-snug">
+              Values That Guide Every Decision We Make
+            </h3>
+          </div>
+
+          <p class="relative z-10 font-poppins text-white/60 text-xs leading-relaxed">
+            Our core values aren't just words — they shape how we work, how we treat clients, and how we approach every vessel we service.
+          </p>
+
+          <!-- Count -->
+          <div class="relative z-10 flex items-center gap-4 pt-4 border-t border-white/10">
+            <div class="flex flex-col">
+              <span class="font-poppins font-semibold text-white text-2xl leading-none">05</span>
+              <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase mt-1">Core Values</span>
+            </div>
+            <div class="w-[1px] h-8 bg-white/10"></div>
+            <div class="flex flex-col">
+              <span class="font-poppins font-semibold text-white text-2xl leading-none">15+</span>
+              <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase mt-1">Years Living Them</span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Right — Values Cards -->
+      <div class="w-full lg:w-2/3 flex flex-col gap-3">
+
+        <!-- Value 1 — Integrity -->
+        <div class="group flex items-center gap-5 bg-white border border-gray-100 rounded-2xl px-5 py-4 hover:border-[#254991] hover:shadow-md transition-all duration-300">
+          <div class="flex-shrink-0 w-11 h-11 rounded-xl bg-[#254991] flex items-center justify-center shadow-md">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between gap-3 mb-1">
+              <h4 class="font-poppins font-semibold text-[#254991] text-sm">Integrity</h4>
+              <span class="font-poppins text-gray-200 text-xs font-semibold flex-shrink-0">01</span>
+            </div>
+            <p class="font-poppins text-gray-500 text-xs leading-relaxed">Complete transparency and honesty in every engagement — building lasting trust across every ocean we serve.</p>
+            <div class="mt-2">
+              <span class="font-poppins text-[#254991]/40 text-[9px] tracking-widest uppercase">Honesty · Transparency · Trust</span>
+            </div>
+          </div>
         </div>
 
-        <!-- Label -->
-        <div class="relative z-10 flex items-center gap-2">
-          <span class="block w-4 h-[2px] bg-[#7eb3ff] rounded-full"></span>
-          <span class="font-poppins text-[#7eb3ff] text-[9px] tracking-[0.3em] uppercase">Core Value</span>
+        <!-- Value 2 — Excellence -->
+        <div class="group flex items-center gap-5 bg-white border border-gray-100 rounded-2xl px-5 py-4 hover:border-[#254991] hover:shadow-md transition-all duration-300">
+          <div class="flex-shrink-0 w-11 h-11 rounded-xl bg-[#254991] flex items-center justify-center shadow-md">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/>
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between gap-3 mb-1">
+              <h4 class="font-poppins font-semibold text-[#254991] text-sm">Excellence</h4>
+              <span class="font-poppins text-gray-200 text-xs font-semibold flex-shrink-0">02</span>
+            </div>
+            <p class="font-poppins text-gray-500 text-xs leading-relaxed">Highest technical standards on every job — from the smallest component repair to full vessel overhauls, quality is never compromised.</p>
+            <div class="mt-2">
+              <span class="font-poppins text-[#254991]/40 text-[9px] tracking-widest uppercase">Quality · Precision · Standards</span>
+            </div>
+          </div>
         </div>
 
-        <!-- Title -->
-        <h3 class="relative z-10 font-poppins font-semibold text-white text-lg -mt-1">Integrity</h3>
+        <!-- Value 3 — Reliability -->
+        <div class="group flex items-center gap-5 bg-white border border-gray-100 rounded-2xl px-5 py-4 hover:border-[#254991] hover:shadow-md transition-all duration-300">
+          <div class="flex-shrink-0 w-11 h-11 rounded-xl bg-[#254991] flex items-center justify-center shadow-md">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between gap-3 mb-1">
+              <h4 class="font-poppins font-semibold text-[#254991] text-sm">Reliability</h4>
+              <span class="font-poppins text-gray-200 text-xs font-semibold flex-shrink-0">03</span>
+            </div>
+            <p class="font-poppins text-gray-500 text-xs leading-relaxed">When vessels are in port or in distress, clients count on us to respond swiftly — 24/7, anywhere in the world.</p>
+            <div class="mt-2">
+              <span class="font-poppins text-[#254991]/40 text-[9px] tracking-widest uppercase">24/7 · Swift · Dependable</span>
+            </div>
+          </div>
+        </div>
 
-        <!-- Text -->
-        <p class="relative z-10 font-poppins text-white/70 text-xs leading-relaxed">
-          We operate with complete transparency and honesty in every engagement — building lasting trust with clients, partners, and crew across every ocean we serve.
-        </p>
+        <!-- Value 4 — Teamwork -->
+        <div class="group flex items-center gap-5 bg-white border border-gray-100 rounded-2xl px-5 py-4 hover:border-[#254991] hover:shadow-md transition-all duration-300">
+          <div class="flex-shrink-0 w-11 h-11 rounded-xl bg-[#254991] flex items-center justify-center shadow-md">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between gap-3 mb-1">
+              <h4 class="font-poppins font-semibold text-[#254991] text-sm">Teamwork</h4>
+              <span class="font-poppins text-gray-200 text-xs font-semibold flex-shrink-0">04</span>
+            </div>
+            <p class="font-poppins text-gray-500 text-xs leading-relaxed">Engineers, mariners and consultants working as one cohesive unit — combining deep expertise to deliver seamless results.</p>
+            <div class="mt-2">
+              <span class="font-poppins text-[#254991]/40 text-[9px] tracking-widest uppercase">Unity · Expertise · Collaboration</span>
+            </div>
+          </div>
+        </div>
 
-        <!-- Bottom Tag -->
-        <div class="relative z-10 mt-auto pt-3 border-t border-white/10">
-          <span class="font-poppins text-white/40 text-[9px] tracking-widest uppercase">Honesty · Transparency · Trust</span>
+        <!-- Value 5 — Innovation -->
+        <div class="group flex items-center gap-5 bg-white border border-gray-100 rounded-2xl px-5 py-4 hover:border-[#254991] hover:shadow-md transition-all duration-300">
+          <div class="flex-shrink-0 w-11 h-11 rounded-xl bg-[#254991] flex items-center justify-center shadow-md">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+            </svg>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between gap-3 mb-1">
+              <h4 class="font-poppins font-semibold text-[#254991] text-sm">Innovation</h4>
+              <span class="font-poppins text-gray-200 text-xs font-semibold flex-shrink-0">05</span>
+            </div>
+            <p class="font-poppins text-gray-500 text-xs leading-relaxed">Continuously adopting advanced techniques and technologies to deliver smarter, faster, and more sustainable marine solutions.</p>
+            <div class="mt-2">
+              <span class="font-poppins text-[#254991]/40 text-[9px] tracking-widest uppercase">Modern · Smart · Forward</span>
+            </div>
+          </div>
         </div>
 
       </div>
-
-      <!-- Value 2 — Excellence -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden p-5 flex flex-col gap-3 group hover:border-[#254991] hover:shadow-xl transition-all duration-300">
-
-        <!-- BG Circles -->
-        <div class="absolute top-0 right-0 w-32 h-32 rounded-full bg-[#254991]/5 -translate-y-10 translate-x-10"></div>
-        <div class="absolute bottom-0 left-0 w-20 h-20 rounded-full bg-[#254991]/5 translate-y-8 -translate-x-6"></div>
-
-        <!-- Number -->
-        <span class="relative z-10 font-poppins font-semibold text-[#254991]/8 text-5xl leading-none absolute top-3 right-5 select-none">02</span>
-
-        <!-- Icon -->
-        <div class="relative z-10 w-10 h-10 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"/>
-          </svg>
-        </div>
-
-        <!-- Label -->
-        <div class="relative z-10 flex items-center gap-2">
-          <span class="block w-4 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[9px] tracking-[0.3em] uppercase">Core Value</span>
-        </div>
-
-        <!-- Title -->
-        <h3 class="relative z-10 font-poppins font-semibold text-[#254991] text-lg -mt-1">Excellence</h3>
-
-        <!-- Text -->
-        <p class="relative z-10 font-poppins text-gray-600 text-xs leading-relaxed">
-          We hold ourselves to the highest technical standards — from the smallest component repair to full vessel overhauls, quality is never compromised.
-        </p>
-
-        <!-- Bottom Tag -->
-        <div class="relative z-10 mt-auto pt-3 border-t border-gray-100">
-          <span class="font-poppins text-gray-400 text-[9px] tracking-widest uppercase">Quality · Precision · Standards</span>
-        </div>
-
-      </div>
-
     </div>
-
-    <!-- Bottom Row — 3 smaller cards -->
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
-
-      <!-- Value 3 — Reliability -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-5 py-5 flex flex-col gap-3 group hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-
-        <div class="absolute top-0 right-0 w-20 h-20 rounded-full bg-[#254991]/5 -translate-y-8 translate-x-8"></div>
-
-        <span class="absolute top-3 right-4 font-poppins font-semibold text-[#254991]/8 text-4xl leading-none select-none">03</span>
-
-        <div class="relative z-10 w-10 h-10 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
-          </svg>
-        </div>
-
-        <h3 class="relative z-10 font-poppins font-semibold text-[#254991] text-base">Reliability</h3>
-
-        <p class="relative z-10 font-poppins text-gray-600 text-xs leading-relaxed">
-          When vessels are in port or in distress, our clients count on us to respond swiftly — 24/7, anywhere in the world.
-        </p>
-
-        <div class="relative z-10 mt-auto pt-3 border-t border-gray-100">
-          <span class="font-poppins text-gray-400 text-[9px] tracking-widest uppercase">24/7 · Swift · Dependable</span>
-        </div>
-
-      </div>
-
-      <!-- Value 4 — Teamwork -->
-      <div class="relative bg-[#254991] rounded-2xl overflow-hidden px-5 py-5 flex flex-col gap-3 group hover:shadow-lg transition-all duration-300">
-
-        <div class="absolute top-0 right-0 w-20 h-20 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
-
-        <span class="absolute top-3 right-4 font-poppins font-semibold text-white/10 text-4xl leading-none select-none">04</span>
-
-        <div class="relative z-10 w-10 h-10 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
-          <svg class="w-5 h-5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"/>
-          </svg>
-        </div>
-
-        <h3 class="relative z-10 font-poppins font-semibold text-white text-base">Teamwork</h3>
-
-        <p class="relative z-10 font-poppins text-white/70 text-xs leading-relaxed">
-          Our engineers, mariners and consultants work as one cohesive unit — combining deep expertise to deliver seamless results.
-        </p>
-
-        <div class="relative z-10 mt-auto pt-3 border-t border-white/10">
-          <span class="font-poppins text-white/40 text-[9px] tracking-widest uppercase">Unity · Expertise · Collaboration</span>
-        </div>
-
-      </div>
-
-      <!-- Value 5 — Innovation -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-5 py-5 flex flex-col gap-3 group hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-
-        <div class="absolute top-0 right-0 w-20 h-20 rounded-full bg-[#254991]/5 -translate-y-8 translate-x-8"></div>
-
-        <span class="absolute top-3 right-4 font-poppins font-semibold text-[#254991]/8 text-4xl leading-none select-none">05</span>
-
-        <div class="relative z-10 w-10 h-10 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
-          </svg>
-        </div>
-
-        <h3 class="relative z-10 font-poppins font-semibold text-[#254991] text-base">Innovation</h3>
-
-        <p class="relative z-10 font-poppins text-gray-600 text-xs leading-relaxed">
-          We continuously adopt advanced techniques and technologies to deliver smarter, faster, and more sustainable marine solutions.
-        </p>
-
-        <div class="relative z-10 mt-auto pt-3 border-t border-gray-100">
-          <span class="font-poppins text-gray-400 text-[9px] tracking-widest uppercase">Modern · Smart · Forward</span>
-        </div>
-
-      </div>
-
-    </div>
-
   </div>
 </section>
 

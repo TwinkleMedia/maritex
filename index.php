@@ -357,7 +357,6 @@ include "./navbar.php"
 </section>
 
 
-
 <!-- OUR SERVICES SECTION -->
 <section class="w-full py-16 bg-gray-50">
 
@@ -376,46 +375,81 @@ include "./navbar.php"
 
       <!-- Card 1 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-xl overflow-hidden flex flex-col items-center justify-center min-h-[150px] px-6 py-8 shadow-md hover:shadow-xl hover:-translate-y-1">
-        <!-- Icon -->
-        <div class="mb-4 bg-white/10 rounded-full p-3 group-hover:bg-white/20 transition-all duration-300">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
-            <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
-          </svg>
+        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+
+        <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
+
+        <div class="relative z-10 flex items-center justify-between w-full mb-4">
+          <div class="bg-white/10 border border-white/20 rounded-xl p-2.5 group-hover:bg-white/20 transition-all duration-300">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+          </div>
+          <span class="font-poppins font-semibold text-white/10 text-4xl leading-none select-none">01</span>
         </div>
-        <p class="font-poppins font-semibold text-white text-xs tracking-widest uppercase text-center leading-relaxed">
+
+        <p class="relative z-10 font-poppins font-semibold text-white text-xs tracking-widest uppercase leading-relaxed flex-1">
           Marine Diesel Engine Routine &amp; Diagnostic Services
         </p>
-        <span class="mt-4 text-white/50 text-xs font-poppins tracking-widest group-hover:text-white/80 transition-all duration-300">Learn More →</span>
+
+        <div class="relative z-10 flex items-center justify-between w-full mt-4 pt-4 border-t border-white/10">
+          <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase">Engine · Diagnostic</span>
+          <span class="text-white/50 text-xs font-poppins tracking-widest group-hover:text-white transition-all duration-300">→</span>
+        </div>
+
       </a>
 
       <!-- Card 2 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-xl overflow-hidden flex flex-col items-center justify-center min-h-[150px] px-6 py-8 shadow-md hover:shadow-xl hover:-translate-y-1">
-        <div class="mb-4 bg-white/10 rounded-full p-3 group-hover:bg-white/20 transition-all duration-300">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/>
-          </svg>
+        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+
+        <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
+
+        <div class="relative z-10 flex items-center justify-between w-full mb-4">
+          <div class="bg-white/10 border border-white/20 rounded-xl p-2.5 group-hover:bg-white/20 transition-all duration-300">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+          </div>
+          <span class="font-poppins font-semibold text-white/10 text-4xl leading-none select-none">02</span>
         </div>
-        <p class="font-poppins font-semibold text-white text-xs tracking-widest uppercase text-center leading-relaxed">
+
+        <p class="relative z-10 font-poppins font-semibold text-white text-xs tracking-widest uppercase leading-relaxed flex-1">
           Electrical and Automation Services
         </p>
-        <span class="mt-4 text-white/50 text-xs font-poppins tracking-widest group-hover:text-white/80 transition-all duration-300">Learn More →</span>
+
+        <div class="relative z-10 flex items-center justify-between w-full mt-4 pt-4 border-t border-white/10">
+          <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase">Electrical · Automation</span>
+          <span class="text-white/50 text-xs font-poppins tracking-widest group-hover:text-white transition-all duration-300">→</span>
+        </div>
+
       </a>
 
       <!-- Card 3 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-xl overflow-hidden flex flex-col items-center justify-center min-h-[150px] px-6 py-8 shadow-md hover:shadow-xl hover:-translate-y-1 sm:col-span-2 lg:col-span-1">
-        <div class="mb-4 bg-white/10 rounded-full p-3 group-hover:bg-white/20 transition-all duration-300">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
-          </svg>
+        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1 sm:col-span-2 lg:col-span-1">
+
+        <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
+
+        <div class="relative z-10 flex items-center justify-between w-full mb-4">
+          <div class="bg-white/10 border border-white/20 rounded-xl p-2.5 group-hover:bg-white/20 transition-all duration-300">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+            </svg>
+          </div>
+          <span class="font-poppins font-semibold text-white/10 text-4xl leading-none select-none">03</span>
         </div>
-        <p class="font-poppins font-semibold text-white text-xs tracking-widest uppercase text-center leading-relaxed">
+
+        <p class="relative z-10 font-poppins font-semibold text-white text-xs tracking-widest uppercase leading-relaxed flex-1">
           Condition Monitoring Service
         </p>
-        <span class="mt-4 text-white/50 text-xs font-poppins tracking-widest group-hover:text-white/80 transition-all duration-300">Learn More →</span>
+
+        <div class="relative z-10 flex items-center justify-between w-full mt-4 pt-4 border-t border-white/10">
+          <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase">Monitoring · Analysis</span>
+          <span class="text-white/50 text-xs font-poppins tracking-widest group-hover:text-white transition-all duration-300">→</span>
+        </div>
+
       </a>
 
     </div>
@@ -425,30 +459,54 @@ include "./navbar.php"
 
       <!-- Card 4 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-xl overflow-hidden flex flex-col items-center justify-center min-h-[150px] px-6 py-8 shadow-md hover:shadow-xl hover:-translate-y-1">
-        <div class="mb-4 bg-white/10 rounded-full p-3 group-hover:bg-white/20 transition-all duration-300">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/>
-          </svg>
+        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+
+        <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
+
+        <div class="relative z-10 flex items-center justify-between w-full mb-4">
+          <div class="bg-white/10 border border-white/20 rounded-xl p-2.5 group-hover:bg-white/20 transition-all duration-300">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/>
+            </svg>
+          </div>
+          <span class="font-poppins font-semibold text-white/10 text-4xl leading-none select-none">04</span>
         </div>
-        <p class="font-poppins font-semibold text-white text-xs tracking-widest uppercase text-center leading-relaxed">
+
+        <p class="relative z-10 font-poppins font-semibold text-white text-xs tracking-widest uppercase leading-relaxed flex-1">
           Reconditioning Services
         </p>
-        <span class="mt-4 text-white/50 text-xs font-poppins tracking-widest group-hover:text-white/80 transition-all duration-300">Learn More →</span>
+
+        <div class="relative z-10 flex items-center justify-between w-full mt-4 pt-4 border-t border-white/10">
+          <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase">Workshop · OEM</span>
+          <span class="text-white/50 text-xs font-poppins tracking-widest group-hover:text-white transition-all duration-300">→</span>
+        </div>
+
       </a>
 
       <!-- Card 5 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-xl overflow-hidden flex flex-col items-center justify-center min-h-[150px] px-6 py-8 shadow-md hover:shadow-xl hover:-translate-y-1">
-        <div class="mb-4 bg-white/10 rounded-full p-3 group-hover:bg-white/20 transition-all duration-300">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/>
-          </svg>
+        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+
+        <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
+
+        <div class="relative z-10 flex items-center justify-between w-full mb-4">
+          <div class="bg-white/10 border border-white/20 rounded-xl p-2.5 group-hover:bg-white/20 transition-all duration-300">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"/>
+            </svg>
+          </div>
+          <span class="font-poppins font-semibold text-white/10 text-4xl leading-none select-none">05</span>
         </div>
-        <p class="font-poppins font-semibold text-white text-xs tracking-widest uppercase text-center leading-relaxed">
+
+        <p class="relative z-10 font-poppins font-semibold text-white text-xs tracking-widest uppercase leading-relaxed flex-1">
           Hydraulic Systems Trouble Shooting and Repair Services
         </p>
-        <span class="mt-4 text-white/50 text-xs font-poppins tracking-widest group-hover:text-white/80 transition-all duration-300">Learn More →</span>
+
+        <div class="relative z-10 flex items-center justify-between w-full mt-4 pt-4 border-t border-white/10">
+          <span class="font-poppins text-white/40 text-[10px] tracking-widest uppercase">Hydraulic · Repair</span>
+          <span class="text-white/50 text-xs font-poppins tracking-widest group-hover:text-white transition-all duration-300">→</span>
+        </div>
+
       </a>
 
     </div>
