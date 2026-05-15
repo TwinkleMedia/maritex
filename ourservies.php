@@ -21,7 +21,7 @@ include "./navbar.php"
       class="w-full h-full object-cover object-center"
     />
     <!-- Dark Overlay -->
-    <div class="absolute inset-0 bg-gradient-to-r from-[#0a1a3a]/95 via-[#254991]/70 to-[#0a1a3a]/50"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-[#0a1a3a]/95 via-[#192653]/70 to-[#0a1a3a]/50"></div>
   </div>
 
   <!-- Content -->
@@ -66,8 +66,8 @@ include "./navbar.php"
 
     <!-- Section Heading -->
     <div class="flex flex-col items-center mb-14">
-      <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
-      <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">What We Offer</h2>
+      <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
+      <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">What We Offer</h2>
       <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">Explore Our Full Range of Marine Engineering Services</p>
     </div>
 
@@ -84,7 +84,7 @@ include "./navbar.php"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
           <!-- Service Number -->
-          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#254991] flex items-center justify-center shadow-lg">
+          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#192653] flex items-center justify-center shadow-lg">
             <span class="font-poppins font-semibold text-white text-sm">01</span>
           </div>
         </div>
@@ -95,8 +95,8 @@ include "./navbar.php"
 
         <!-- Label -->
         <div class="flex items-center gap-3">
-          <span class="block w-6 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[10px] tracking-[0.3em] uppercase">Service 01</span>
+          <span class="block w-6 h-[2px] bg-[#192653] rounded-full"></span>
+          <span class="font-poppins text-[#192653] text-[10px] tracking-[0.3em] uppercase">Service 01</span>
         </div>
 
         <!-- Title -->
@@ -112,8 +112,8 @@ include "./navbar.php"
         <!-- Sub Services -->
         <div class="flex flex-col gap-3">
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -121,8 +121,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Routine engine inspections & scheduled maintenance</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -130,8 +130,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Fuel injection system testing & calibration</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -139,8 +139,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Turbocharger & exhaust system diagnostics</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -151,7 +151,7 @@ include "./navbar.php"
         </div>
 
         <a href="./contactus.php"
-          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
+          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
           Enquire Now
         </a>
 
@@ -170,7 +170,7 @@ include "./navbar.php"
             class="w-full h-72 sm:h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
-          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#254991] flex items-center justify-center shadow-lg">
+          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#192653] flex items-center justify-center shadow-lg">
             <span class="font-poppins font-semibold text-white text-sm">02</span>
           </div>
         </div>
@@ -180,8 +180,8 @@ include "./navbar.php"
       <div class="w-full lg:w-1/2 flex flex-col gap-5">
 
         <div class="flex items-center gap-3">
-          <span class="block w-6 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[10px] tracking-[0.3em] uppercase">Service 02</span>
+          <span class="block w-6 h-[2px] bg-[#192653] rounded-full"></span>
+          <span class="font-poppins text-[#192653] text-[10px] tracking-[0.3em] uppercase">Service 02</span>
         </div>
 
         <h3 class="font-poppins font-semibold text-[#0a1a3a] text-xl sm:text-2xl leading-snug">
@@ -194,8 +194,8 @@ include "./navbar.php"
 
         <div class="flex flex-col gap-3">
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -203,8 +203,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Hydraulic pump & motor overhaul and replacement</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -212,8 +212,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Valve block testing, repair & reconfiguration</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -221,8 +221,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Hydraulic cylinder seal replacement & leak repairs</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -233,7 +233,7 @@ include "./navbar.php"
         </div>
 
         <a href="./contactus.php"
-          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
+          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
           Enquire Now
         </a>
 
@@ -252,7 +252,7 @@ include "./navbar.php"
             class="w-full h-72 sm:h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
-          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#254991] flex items-center justify-center shadow-lg">
+          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#192653] flex items-center justify-center shadow-lg">
             <span class="font-poppins font-semibold text-white text-sm">03</span>
           </div>
         </div>
@@ -262,8 +262,8 @@ include "./navbar.php"
       <div class="w-full lg:w-1/2 flex flex-col gap-5">
 
         <div class="flex items-center gap-3">
-          <span class="block w-6 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[10px] tracking-[0.3em] uppercase">Service 03</span>
+          <span class="block w-6 h-[2px] bg-[#192653] rounded-full"></span>
+          <span class="font-poppins text-[#192653] text-[10px] tracking-[0.3em] uppercase">Service 03</span>
         </div>
 
         <h3 class="font-poppins font-semibold text-[#0a1a3a] text-xl sm:text-2xl leading-snug">
@@ -276,8 +276,8 @@ include "./navbar.php"
 
         <div class="flex flex-col gap-3">
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -285,8 +285,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Main & emergency switchboard repair and maintenance</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -294,8 +294,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">PLC, SCADA & automation system programming</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -303,8 +303,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Motor rewinding & electrical fault diagnosis</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -315,7 +315,7 @@ include "./navbar.php"
         </div>
 
         <a href="./contactus.php"
-          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
+          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
           Enquire Now
         </a>
 
@@ -334,7 +334,7 @@ include "./navbar.php"
             class="w-full h-72 sm:h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
-          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#254991] flex items-center justify-center shadow-lg">
+          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#192653] flex items-center justify-center shadow-lg">
             <span class="font-poppins font-semibold text-white text-sm">04</span>
           </div>
         </div>
@@ -344,8 +344,8 @@ include "./navbar.php"
       <div class="w-full lg:w-1/2 flex flex-col gap-5">
 
         <div class="flex items-center gap-3">
-          <span class="block w-6 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[10px] tracking-[0.3em] uppercase">Service 04</span>
+          <span class="block w-6 h-[2px] bg-[#192653] rounded-full"></span>
+          <span class="font-poppins text-[#192653] text-[10px] tracking-[0.3em] uppercase">Service 04</span>
         </div>
 
         <h3 class="font-poppins font-semibold text-[#0a1a3a] text-xl sm:text-2xl leading-snug">
@@ -358,8 +358,8 @@ include "./navbar.php"
 
         <div class="flex flex-col gap-3">
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -367,8 +367,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Vibration analysis & bearing condition assessment</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -376,8 +376,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Lube oil & fuel analysis with detailed reporting</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -385,8 +385,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Thermographic & ultrasonic inspection services</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -397,7 +397,7 @@ include "./navbar.php"
         </div>
 
         <a href="./contactus.php"
-          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
+          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
           Enquire Now
         </a>
 
@@ -416,7 +416,7 @@ include "./navbar.php"
             class="w-full h-72 sm:h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
           />
           <div class="absolute inset-0 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
-          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#254991] flex items-center justify-center shadow-lg">
+          <div class="absolute top-4 left-4 w-10 h-10 rounded-xl bg-[#192653] flex items-center justify-center shadow-lg">
             <span class="font-poppins font-semibold text-white text-sm">05</span>
           </div>
         </div>
@@ -426,8 +426,8 @@ include "./navbar.php"
       <div class="w-full lg:w-1/2 flex flex-col gap-5">
 
         <div class="flex items-center gap-3">
-          <span class="block w-6 h-[2px] bg-[#254991] rounded-full"></span>
-          <span class="font-poppins text-[#254991] text-[10px] tracking-[0.3em] uppercase">Service 05</span>
+          <span class="block w-6 h-[2px] bg-[#192653] rounded-full"></span>
+          <span class="font-poppins text-[#192653] text-[10px] tracking-[0.3em] uppercase">Service 05</span>
         </div>
 
         <h3 class="font-poppins font-semibold text-[#0a1a3a] text-xl sm:text-2xl leading-snug">
@@ -440,8 +440,8 @@ include "./navbar.php"
 
         <div class="flex flex-col gap-3">
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -449,8 +449,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Crankshaft, camshaft & liner reconditioning</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -458,8 +458,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Fuel pump & injector overhaul to OEM specifications</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -467,8 +467,8 @@ include "./navbar.php"
             <p class="font-poppins text-gray-700 text-sm">Turbocharger cartridge assembly & balancing</p>
           </div>
 
-          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#254991] transition-all duration-300">
-            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+          <div class="flex items-start gap-3 bg-gray-50 border border-gray-100 rounded-xl px-4 py-3 hover:border-[#192653] transition-all duration-300">
+            <div class="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -479,7 +479,7 @@ include "./navbar.php"
         </div>
 
         <a href="./contactus.php"
-          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
+          class="self-start font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5">
           Enquire Now
         </a>
 

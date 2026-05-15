@@ -14,7 +14,7 @@
             poppins: ['Poppins', 'sans-serif'],
           },
           colors: {
-            navy: '#254991',
+            navy: '#192653',
           }
         }
       }
@@ -35,7 +35,7 @@ include "./navbar.php"
       class="w-full h-full object-cover object-center"
     />
     <!-- Dark overlay -->
-    <div class="absolute inset-0 bg-gradient-to-r from-[#0a1a3a]/90 via-[#254991]/65 to-[#0a1a3a]/40"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-[#0a1a3a]/90 via-[#192653]/65 to-[#0a1a3a]/40"></div>
   </div>
 
   <!-- Main Content -->
@@ -68,11 +68,11 @@ include "./navbar.php"
     <!-- CTA Buttons -->
     <div class="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
       <a href="./prouducts.php"
-        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-lg text-center">
+        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-lg text-center">
         Our Services
       </a>
       <a href="./contactus.php"
-        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase border-2 border-white text-white hover:bg-white hover:text-[#254991] px-6 py-3 rounded-lg transition-all duration-300 text-center">
+        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase border-2 border-white text-white hover:bg-white hover:text-[#192653] px-6 py-3 rounded-lg transition-all duration-300 text-center">
         Contact Us
       </a>
     </div>
@@ -90,8 +90,8 @@ include "./navbar.php"
 
     <!-- Top Label -->
     <div class="flex flex-col items-center mb-12">
-      <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
-      <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">About Us</h2>
+      <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
+      <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">About Us</h2>
       <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">Who We Are</p>
     </div>
 
@@ -109,7 +109,7 @@ include "./navbar.php"
           <!-- Navy overlay bottom -->
           <div class="absolute bottom-0 left-0 right-0 h-1/3 bg-gradient-to-t from-[#0a1a3a]/70 to-transparent"></div>
           <!-- Experience badge -->
-          <div class="absolute bottom-5 left-5 bg-[#254991] text-white rounded-xl px-5 py-3 shadow-lg">
+          <div class="absolute bottom-5 left-5 bg-[#192653] text-white rounded-xl px-5 py-3 shadow-lg">
             <span class="font-poppins font-semibold text-2xl block leading-none">15+</span>
             <span class="font-poppins text-white/80 text-xs tracking-widest uppercase">Years Experience</span>
           </div>
@@ -119,7 +119,7 @@ include "./navbar.php"
       <!-- Text Content -->
       <div class="w-full lg:w-1/2 flex flex-col items-start">
 
-        <h3 class="font-poppins font-semibold text-[#254991] text-xl sm:text-2xl leading-snug mb-4">
+        <h3 class="font-poppins font-semibold text-[#192653] text-xl sm:text-2xl leading-snug mb-4">
           Trusted Marine Engineering <br class="hidden sm:block"/> Specialists Worldwide
         </h3>
 
@@ -135,7 +135,7 @@ include "./navbar.php"
         <div class="flex flex-col gap-3 mb-8 w-full">
 
           <div class="flex items-start gap-3">
-            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -144,7 +144,7 @@ include "./navbar.php"
           </div>
 
           <div class="flex items-start gap-3">
-            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -153,7 +153,7 @@ include "./navbar.php"
           </div>
 
           <div class="flex items-start gap-3">
-            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -162,7 +162,7 @@ include "./navbar.php"
           </div>
 
           <div class="flex items-start gap-3">
-            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#254991] flex items-center justify-center">
+            <div class="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-[#192653] flex items-center justify-center">
               <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/>
               </svg>
@@ -174,7 +174,7 @@ include "./navbar.php"
 
         <!-- CTA -->
         <a href="./aboutus.php"
-          class="font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-7 py-3 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-0.5">
+          class="font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-7 py-3 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-0.5">
           Read More About Us
         </a>
 
@@ -185,42 +185,42 @@ include "./navbar.php"
     <div class="grid grid-cols-2 md:grid-cols-4 gap-5">
 
       <div class="flex flex-col items-center bg-gray-50 rounded-xl py-6 px-4 shadow-sm border border-gray-100">
-        <div class="mb-3 bg-[#254991]/10 rounded-full p-3">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+        <div class="mb-3 bg-[#192653]/10 rounded-full p-3">
+          <svg class="w-5 h-5 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
           </svg>
         </div>
-        <span class="font-poppins font-semibold text-[#254991] text-2xl">15+</span>
+        <span class="font-poppins font-semibold text-[#192653] text-2xl">15+</span>
         <span class="font-poppins text-gray-500 text-[10px] sm:text-xs tracking-widest uppercase mt-1 text-center">Years Experience</span>
       </div>
 
       <div class="flex flex-col items-center bg-gray-50 rounded-xl py-6 px-4 shadow-sm border border-gray-100">
-        <div class="mb-3 bg-[#254991]/10 rounded-full p-3">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+        <div class="mb-3 bg-[#192653]/10 rounded-full p-3">
+          <svg class="w-5 h-5 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
           </svg>
         </div>
-        <span class="font-poppins font-semibold text-[#254991] text-2xl">500+</span>
+        <span class="font-poppins font-semibold text-[#192653] text-2xl">500+</span>
         <span class="font-poppins text-gray-500 text-[10px] sm:text-xs tracking-widest uppercase mt-1 text-center">Ships Repaired</span>
       </div>
 
       <div class="flex flex-col items-center bg-gray-50 rounded-xl py-6 px-4 shadow-sm border border-gray-100">
-        <div class="mb-3 bg-[#254991]/10 rounded-full p-3">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+        <div class="mb-3 bg-[#192653]/10 rounded-full p-3">
+          <svg class="w-5 h-5 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"/>
           </svg>
         </div>
-        <span class="font-poppins font-semibold text-[#254991] text-2xl">50+</span>
+        <span class="font-poppins font-semibold text-[#192653] text-2xl">50+</span>
         <span class="font-poppins text-gray-500 text-[10px] sm:text-xs tracking-widest uppercase mt-1 text-center">Expert Engineers</span>
       </div>
 
       <div class="flex flex-col items-center bg-gray-50 rounded-xl py-6 px-4 shadow-sm border border-gray-100">
-        <div class="mb-3 bg-[#254991]/10 rounded-full p-3">
-          <svg class="w-5 h-5 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+        <div class="mb-3 bg-[#192653]/10 rounded-full p-3">
+          <svg class="w-5 h-5 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064"/>
           </svg>
         </div>
-        <span class="font-poppins font-semibold text-[#254991] text-2xl">30+</span>
+        <span class="font-poppins font-semibold text-[#192653] text-2xl">30+</span>
         <span class="font-poppins text-gray-500 text-[10px] sm:text-xs tracking-widest uppercase mt-1 text-center">Countries Served</span>
       </div>
 
@@ -237,8 +237,8 @@ include "./navbar.php"
 
     <!-- Section Heading -->
     <div class="flex flex-col items-center mb-14">
-      <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
-      <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">Why Choose Us</h2>
+      <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
+      <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">Why Choose Us</h2>
       <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">What Sets Global Trading Company Apart</p>
     </div>
 
@@ -249,15 +249,15 @@ include "./navbar.php"
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
 
       <!-- Card 1 — Certified Experts -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#254991] hover:shadow-xl transition-all duration-300">
-        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#254991]/5 -translate-y-10 translate-x-10"></div>
-        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#254991]/8 text-5xl leading-none select-none">01</span>
-        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-6 h-6 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#192653] hover:shadow-xl transition-all duration-300">
+        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#192653]/5 -translate-y-10 translate-x-10"></div>
+        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#192653]/8 text-5xl leading-none select-none">01</span>
+        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#192653]/10 border border-[#192653]/20 flex items-center justify-center">
+          <svg class="w-6 h-6 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
           </svg>
         </div>
-        <h4 class="relative z-10 font-poppins font-semibold text-[#254991] text-base leading-snug">Certified & Experienced Engineers</h4>
+        <h4 class="relative z-10 font-poppins font-semibold text-[#192653] text-base leading-snug">Certified & Experienced Engineers</h4>
         <p class="relative z-10 font-poppins text-gray-600 text-sm leading-relaxed">Our team of STCW-certified engineers and master mariners bring decades of hands-on experience across all vessel types and engine makes.</p>
         <div class="relative z-10 mt-auto pt-4 border-t border-gray-100">
           <span class="font-poppins text-gray-400 text-[10px] tracking-widest uppercase">STCW · ISM · Lloyd's Approved</span>
@@ -265,7 +265,7 @@ include "./navbar.php"
       </div>
 
       <!-- Card 2 — 24/7 Support (navy) -->
-      <div class="relative bg-[#254991] rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:shadow-xl transition-all duration-300">
+      <div class="relative bg-[#192653] rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:shadow-xl transition-all duration-300">
         <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-white/5 -translate-y-10 translate-x-10"></div>
         <span class="absolute top-4 right-5 font-poppins font-semibold text-white/10 text-5xl leading-none select-none">02</span>
         <div class="relative z-10 w-12 h-12 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
@@ -281,15 +281,15 @@ include "./navbar.php"
       </div>
 
       <!-- Card 3 — Fast Turnaround -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#254991] hover:shadow-xl transition-all duration-300">
-        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#254991]/5 -translate-y-10 translate-x-10"></div>
-        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#254991]/8 text-5xl leading-none select-none">03</span>
-        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-6 h-6 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#192653] hover:shadow-xl transition-all duration-300">
+        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#192653]/5 -translate-y-10 translate-x-10"></div>
+        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#192653]/8 text-5xl leading-none select-none">03</span>
+        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#192653]/10 border border-[#192653]/20 flex items-center justify-center">
+          <svg class="w-6 h-6 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/>
           </svg>
         </div>
-        <h4 class="relative z-10 font-poppins font-semibold text-[#254991] text-base leading-snug">Industry-Leading Turnaround</h4>
+        <h4 class="relative z-10 font-poppins font-semibold text-[#192653] text-base leading-snug">Industry-Leading Turnaround</h4>
         <p class="relative z-10 font-poppins text-gray-600 text-sm leading-relaxed">We understand that every hour in port costs money. Our streamlined processes and well-equipped workshop deliver an average turnaround of under 72 hours.</p>
         <div class="relative z-10 mt-auto pt-4 border-t border-gray-100">
           <span class="font-poppins text-gray-400 text-[10px] tracking-widest uppercase">Fast · Efficient · On Schedule</span>
@@ -302,16 +302,16 @@ include "./navbar.php"
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
 
       <!-- Card 4 — Equipped Workshop -->
-      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#254991] hover:shadow-xl transition-all duration-300">
-        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#254991]/5 -translate-y-10 translate-x-10"></div>
-        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#254991]/8 text-5xl leading-none select-none">04</span>
-        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-6 h-6 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+      <div class="relative bg-white border border-gray-100 rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:border-[#192653] hover:shadow-xl transition-all duration-300">
+        <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-[#192653]/5 -translate-y-10 translate-x-10"></div>
+        <span class="absolute top-4 right-5 font-poppins font-semibold text-[#192653]/8 text-5xl leading-none select-none">04</span>
+        <div class="relative z-10 w-12 h-12 rounded-xl bg-[#192653]/10 border border-[#192653]/20 flex items-center justify-center">
+          <svg class="w-6 h-6 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
             <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
           </svg>
         </div>
-        <h4 class="relative z-10 font-poppins font-semibold text-[#254991] text-base leading-snug">Fully Equipped Workshop</h4>
+        <h4 class="relative z-10 font-poppins font-semibold text-[#192653] text-base leading-snug">Fully Equipped Workshop</h4>
         <p class="relative z-10 font-poppins text-gray-600 text-sm leading-relaxed">Our in-house workshop is fitted with precision machinery to recondition components to OEM standards — saving costs without cutting corners.</p>
         <div class="relative z-10 mt-auto pt-4 border-t border-gray-100">
           <span class="font-poppins text-gray-400 text-[10px] tracking-widest uppercase">OEM Standards · In-House · Precise</span>
@@ -319,7 +319,7 @@ include "./navbar.php"
       </div>
 
       <!-- Card 5 — Global Reach (navy) -->
-      <div class="relative bg-[#254991] rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:shadow-xl transition-all duration-300">
+      <div class="relative bg-[#192653] rounded-2xl overflow-hidden px-6 py-7 flex flex-col gap-4 hover:shadow-xl transition-all duration-300">
         <div class="absolute top-0 right-0 w-28 h-28 rounded-full bg-white/5 -translate-y-10 translate-x-10"></div>
         <span class="absolute top-4 right-5 font-poppins font-semibold text-white/10 text-5xl leading-none select-none">05</span>
         <div class="relative z-10 w-12 h-12 rounded-xl bg-white/10 border border-white/20 flex items-center justify-center">
@@ -335,18 +335,18 @@ include "./navbar.php"
       </div>
 
       <!-- Card 6 — CTA Card -->
-      <div class="relative bg-gray-50 border-2 border-dashed border-[#254991]/30 rounded-2xl px-6 py-7 flex flex-col items-center justify-center gap-5 hover:border-[#254991] hover:shadow-xl transition-all duration-300 text-center">
-        <div class="w-12 h-12 rounded-xl bg-[#254991]/10 border border-[#254991]/20 flex items-center justify-center">
-          <svg class="w-6 h-6 text-[#254991]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
+      <div class="relative bg-gray-50 border-2 border-dashed border-[#192653]/30 rounded-2xl px-6 py-7 flex flex-col items-center justify-center gap-5 hover:border-[#192653] hover:shadow-xl transition-all duration-300 text-center">
+        <div class="w-12 h-12 rounded-xl bg-[#192653]/10 border border-[#192653]/20 flex items-center justify-center">
+          <svg class="w-6 h-6 text-[#192653]" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
           </svg>
         </div>
         <div class="flex flex-col gap-1">
-          <h4 class="font-poppins font-semibold text-[#254991] text-base">Ready to Work With Us?</h4>
+          <h4 class="font-poppins font-semibold text-[#192653] text-base">Ready to Work With Us?</h4>
           <p class="font-poppins text-gray-500 text-sm leading-relaxed">Get in touch with our team today for a consultation or rapid deployment request.</p>
         </div>
         <a href="./contactus.php"
-          class="w-full font-poppins font-semibold text-xs tracking-widest uppercase bg-[#254991] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5 text-center">
+          class="w-full font-poppins font-semibold text-xs tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-md hover:-translate-y-0.5 text-center">
           Contact Us Now
         </a>
       </div>
@@ -362,8 +362,8 @@ include "./navbar.php"
 
   <!-- Section Heading -->
   <div class="flex flex-col items-center mb-12">
-    <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
-    <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">Our Services</h2>
+    <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
+    <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">Our Services</h2>
     <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">What We Offer</p>
   </div>
 
@@ -375,7 +375,7 @@ include "./navbar.php"
 
       <!-- Card 1 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+        class="group relative bg-[#192653] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
 
         <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
 
@@ -402,7 +402,7 @@ include "./navbar.php"
 
       <!-- Card 2 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+        class="group relative bg-[#192653] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
 
         <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
 
@@ -428,7 +428,7 @@ include "./navbar.php"
 
       <!-- Card 3 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1 sm:col-span-2 lg:col-span-1">
+        class="group relative bg-[#192653] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1 sm:col-span-2 lg:col-span-1">
 
         <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
 
@@ -459,7 +459,7 @@ include "./navbar.php"
 
       <!-- Card 4 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+        class="group relative bg-[#192653] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
 
         <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
 
@@ -485,7 +485,7 @@ include "./navbar.php"
 
       <!-- Card 5 -->
       <a href="./services.php"
-        class="group relative bg-[#254991] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
+        class="group relative bg-[#192653] hover:bg-[#1a3570] transition-all duration-300 rounded-2xl overflow-hidden flex flex-col items-start justify-between min-h-[190px] px-6 py-7 shadow-md hover:shadow-xl hover:-translate-y-1">
 
         <div class="absolute top-0 right-0 w-24 h-24 rounded-full bg-white/5 -translate-y-8 translate-x-8"></div>
 
@@ -525,8 +525,8 @@ include "./clients.php"
 
   <!-- Section Heading -->
   <div class="flex flex-col items-center mb-12">
-    <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
-    <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">Client Testimonials</h2>
+    <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
+    <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">Client Testimonials</h2>
     <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">What Our Clients Say</p>
   </div>
 
@@ -538,8 +538,8 @@ include "./clients.php"
       <div id="testimonial-track" class="flex gap-6 transition-transform duration-500 ease-in-out">
 
         <!-- Card 1 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -547,19 +547,19 @@ include "./clients.php"
             Global Trading Company provided exceptional engine reconditioning services for our bulk carrier. Their team diagnosed and resolved a complex crankshaft issue within 48 hours — zero downtime beyond schedule. Highly professional and reliable.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">KM</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Capt. Kevin Moore</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Capt. Kevin Moore</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">Fleet Manager · Pacific Maritime Ltd.</p>
             </div>
           </div>
         </div>
 
         <!-- Card 2 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -567,19 +567,19 @@ include "./clients.php"
             We engaged GTC for a full electrical and automation overhaul on our tanker fleet. Their engineers were meticulous, well-prepared, and completed every job on time. Their 24/7 support is a genuine lifesaver in international waters.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">RS</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Rajesh Subramaniam</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Rajesh Subramaniam</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">Technical Superintendent · Indus Shipping Co.</p>
             </div>
           </div>
         </div>
 
         <!-- Card 3 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -587,19 +587,19 @@ include "./clients.php"
             Their marine consultancy team identified structural inefficiencies that had gone unnoticed for years. The recommendations led to a measurable reduction in fuel consumption. GTC is now our go-to partner for all technical assessments.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">AL</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Anders Lindqvist</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Anders Lindqvist</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">Operations Director · Nordic Bulk Carriers</p>
             </div>
           </div>
         </div>
 
         <!-- Card 4 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -607,19 +607,19 @@ include "./clients.php"
             From hydraulic systems repair to condition monitoring, GTC handles everything with precision. They serviced three of our vessels in a single port call — logistics were flawless. Truly a world-class marine engineering team.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">FO</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Fatima Al-Omari</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Fatima Al-Omari</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">VP Operations · Gulf Star Marine</p>
             </div>
           </div>
         </div>
 
         <!-- Card 5 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -627,19 +627,19 @@ include "./clients.php"
             GTC's reconditioning workshop is second to none. They rebuilt our main engine components to OEM standards at a fraction of the cost of replacement. Exceptional quality, honest timelines, and outstanding communication throughout.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">TN</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Takeshi Nakamura</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Takeshi Nakamura</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">Chief Engineer · Nippon Cargo Lines</p>
             </div>
           </div>
         </div>
 
         <!-- Card 6 -->
-        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#254991] hover:shadow-lg transition-all duration-300">
-          <div class="text-[#254991] text-5xl font-serif leading-none opacity-20">"</div>
+        <div class="flex-shrink-0 w-full sm:w-[calc(50%-12px)] lg:w-[calc(33.333%-16px)] bg-white border border-gray-200 rounded-2xl p-6 flex flex-col gap-4 hover:border-[#192653] hover:shadow-lg transition-all duration-300">
+          <div class="text-[#192653] text-5xl font-serif leading-none opacity-20">"</div>
           <div class="flex gap-1">
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
@@ -647,11 +647,11 @@ include "./clients.php"
             We've worked with many marine engineering firms across 30 years — GTC stands apart. Their master mariners understand operational realities, not just technical specs. The diagnostic services have transformed our maintenance planning.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
-            <div class="w-10 h-10 rounded-full bg-[#254991] flex items-center justify-center flex-shrink-0">
+            <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
               <span class="font-poppins font-semibold text-white text-xs">PB</span>
             </div>
             <div>
-              <p class="font-poppins font-semibold text-[#254991] text-sm">Pierre Beaumont</p>
+              <p class="font-poppins font-semibold text-[#192653] text-sm">Pierre Beaumont</p>
               <p class="font-poppins text-gray-400 text-xs tracking-wide">Managing Director · Atlantis Shipping SA</p>
             </div>
           </div>
@@ -664,7 +664,7 @@ include "./clients.php"
     <button
       id="testimonial-prev"
       onclick="testimonialSlide(-1)"
-      class="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 w-10 h-10 rounded-full border-2 border-[#254991] text-[#254991] flex items-center justify-center hover:bg-[#254991] hover:text-white transition-all duration-300 bg-white shadow-md z-10 disabled:border-gray-200 disabled:text-gray-300 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:text-gray-300">
+      class="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 w-10 h-10 rounded-full border-2 border-[#192653] text-[#192653] flex items-center justify-center hover:bg-[#192653] hover:text-white transition-all duration-300 bg-white shadow-md z-10 disabled:border-gray-200 disabled:text-gray-300 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:text-gray-300">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/>
       </svg>
@@ -674,7 +674,7 @@ include "./clients.php"
     <button
       id="testimonial-next"
       onclick="testimonialSlide(1)"
-      class="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 w-10 h-10 rounded-full border-2 border-[#254991] text-[#254991] flex items-center justify-center hover:bg-[#254991] hover:text-white transition-all duration-300 bg-white shadow-md z-10 disabled:border-gray-200 disabled:text-gray-300 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:text-gray-300">
+      class="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 w-10 h-10 rounded-full border-2 border-[#192653] text-[#192653] flex items-center justify-center hover:bg-[#192653] hover:text-white transition-all duration-300 bg-white shadow-md z-10 disabled:border-gray-200 disabled:text-gray-300 disabled:cursor-not-allowed disabled:hover:bg-white disabled:hover:text-gray-300">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
       </svg>
@@ -717,7 +717,7 @@ include "./footer.php"
       for (let i = 0; i < count; i++) {
         const dot = document.createElement('button');
         dot.className = i === current
-          ? 'w-6 h-2 rounded-full bg-[#254991] transition-all duration-300'
+          ? 'w-6 h-2 rounded-full bg-[#192653] transition-all duration-300'
           : 'w-2 h-2 rounded-full bg-gray-300 transition-all duration-300';
         dot.addEventListener('click', () => goTo(i));
         dotsContainer.appendChild(dot);

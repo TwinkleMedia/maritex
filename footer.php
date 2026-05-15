@@ -12,9 +12,9 @@
         <!-- Logo -->
         <a href="./index.php">
           <img
-            src="./assets/logo.png"
+            src="./assets/logo2.png"
             alt="Global Trading Company Logo"
-            class="h-14 w-auto object-contain"
+            class="h-[200px] w-auto object-contain"
           />
         </a>
 

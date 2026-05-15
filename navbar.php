@@ -24,7 +24,7 @@
 <body class="font-poppins">
 
  <!-- TOP BAR -->
-<div class="w-full bg-[#254991] text-white text-sm">
+<div class="w-full bg-[#192653] text-white text-sm">
   <div class="max-w-7xl mx-auto px-6 py-2 flex flex-col sm:flex-row flex-wrap items-center justify-between gap-2">
 
     <!-- LEFT: Phone & Email -->
@@ -61,7 +61,7 @@
 
     <!-- LOGO -->
     <div class="flex items-center gap-4 flex-shrink-0">
-      <img src="./assets/GTCLOGO.png" alt="Global Trading Company Logo" class="h-16 w-auto object-contain"/>
+      <img src="./assets/Logo.pdf.png" alt="Global Trading Company Logo" class="h-16 w-auto object-contain"/>
     </div>
 
     <!-- NAV LINKS - Desktop -->
