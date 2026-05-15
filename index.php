@@ -70,7 +70,7 @@ include "./whatsapp.php"
 
     <!-- CTA Buttons -->
     <div class="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
-      <a href="./prouducts.php"
+      <a href="./ourservies.php"
         class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-lg text-center">
         Our Services
       </a>
