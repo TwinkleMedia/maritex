@@ -25,6 +25,9 @@
 <?php 
 include "./navbar.php"
 ?>
+<?php 
+include "./whatsapp.php"
+?>
 <!-- HERO SECTION -->
 <section class="relative w-full h-[75vh] flex flex-col overflow-hidden">
   <!-- Background Image -->

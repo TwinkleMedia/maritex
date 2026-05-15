@@ -22,6 +22,10 @@
 <!-- ===================== NAVBAR PLACEHOLDER ===================== -->
 <?php include "./navbar.php" ?>
 
+<?php 
+include "./whatsapp.php"
+?>
+
 <!-- ===================== HERO SECTION ===================== -->
 <section class="relative w-full h-[65vh] flex flex-col overflow-hidden">
 
@@ -433,12 +437,8 @@
 
   </div>
 </section>
-
-
 <!-- ===================== FOOTER PLACEHOLDER ===================== -->
 <?php include "./footer.php" ?>
-
-
 <!-- ===================== FORM VALIDATION SCRIPT ===================== -->
 <script>
   function handleSubmit(e) {

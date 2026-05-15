@@ -9,6 +9,9 @@
 <?php 
 include "./navbar.php"
 ?>
+<?php 
+include "./whatsapp.php"
+?>
 <!-- ABOUT HERO SECTION -->
 <section class="relative w-full h-[56vh] flex flex-col overflow-hidden">
 

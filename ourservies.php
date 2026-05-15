@@ -10,6 +10,10 @@
 <?php 
 include "./navbar.php"
 ?>
+
+<?php 
+include "./whatsapp.php"
+?>
     <!-- SERVICES HERO SECTION -->
 <section class="relative w-full h-[56vh] flex flex-col overflow-hidden">
 
