@@ -211,7 +211,7 @@
     <!-- Bottom Bar -->
     <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6">
       <p class="font-poppins text-white/40 text-xs tracking-wide text-center sm:text-left">
-        &copy; <?php echo date('Y'); ?> Global Trading Company. All rights reserved.
+        &copy; <?php echo date('Y'); ?> Martex Shipping Company. All rights reserved.
       </p>
       <div class="flex items-center gap-5">
         <a href="#" class="font-poppins text-white/40 text-xs hover:text-white/70 transition-colors duration-300 tracking-wide">Privacy Policy</a>
