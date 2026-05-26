@@ -166,7 +166,7 @@
               </svg>
             </div>
             <p class="font-poppins text-white/60 text-sm leading-relaxed">
-              123 Marine Drive, Port District,<br/>Mumbai, Maharashtra — 400001, India
+             Maritex Shipping Pvt Ltd , 303 , Nivana Apartment Morabadi , Ranchi , Jharkhand , 834008  <br/>  
             </p>
           </li>
 
@@ -177,7 +177,7 @@
               </svg>
             </div>
             <a href="tel:+912212345678" class="font-poppins text-white/60 text-sm hover:text-white transition-colors duration-300">
-              +91 22 1234 5678
+              +91 7250223300
             </a>
           </li>
 
@@ -188,7 +188,7 @@
               </svg>
             </div>
             <a href="mailto:info@globaltradingco.com" class="font-poppins text-white/60 text-sm hover:text-white transition-colors duration-300">
-              info@globaltradingco.com
+              Abhilashme01@gmail.com
             </a>
           </li>
 

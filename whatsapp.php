@@ -162,7 +162,7 @@
     <div class="wa-tooltip">Chat with us on WhatsApp</div>
 
     <!-- Button -->
-    <a href="https://wa.me/919820000000?text=Hello%2C%20I%20have%20an%20enquiry%20about%20your%20products."
+    <a href="https://wa.me/917250223300?text=Hello%2C%20I%20have%20an%20enquiry%20about%20your%20products."
         target="_blank"
         rel="noopener noreferrer"
         class="wa-btn"
@@ -192,4 +192,5 @@
         }, 3000);
     })();
 </script>
-<!-- END WHATSAPP FLOATING BUTTON -->
+<!-- END WHATSAPP FLOATING BUTTON --
+ 
