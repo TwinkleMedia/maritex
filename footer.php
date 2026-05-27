@@ -13,7 +13,7 @@
         <a href="./index.php">
           <img
             src="./assets/logo2.png"
-            alt="Global Trading Company Logo"
+            alt="Maritex Shipping Companyy Logo"
             class="h-[200px] w-auto object-contain"
           />
         </a>

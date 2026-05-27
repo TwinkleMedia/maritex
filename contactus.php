@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Contact Us — Global Trading Company</title>
+  <title>Contact Us — Maritex Shipping Company</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet"/>
   <script>
@@ -33,7 +33,7 @@ include "./whatsapp.php"
   <div class="absolute inset-0 overflow-hidden">
     <img
       src="./assets/ship.jpg"
-      alt="Contact Global Trading Company"
+      alt="Contact Maritex Shipping Companyy"
       class="w-full h-full object-cover object-center"
     />
     <!-- Dark Overlay -->

@@ -106,7 +106,7 @@ include "./whatsapp.php"
         <div class="relative rounded-xl overflow-hidden shadow-lg">
           <img
             src="./assets/aboutus.jpg"
-            alt="About Global Trading Company"
+            alt="About Maritex Shipping Companyy"
             class="w-full h-72 sm:h-96 object-cover object-center"
           />
           <!-- Navy overlay bottom -->
@@ -127,7 +127,7 @@ include "./whatsapp.php"
         </h3>
 
         <p class="font-poppins text-gray-600 text-sm sm:text-base leading-relaxed mb-4">
-          Global Trading Company is a specialist marine engineering firm providing expert technical services to the maritime industry. With over 15 years of hands-on experience, we have built a strong reputation for precision, reliability, and excellence.
+          Maritex Shipping Companyy is a specialist marine engineering firm providing expert technical services to the maritime industry. With over 15 years of hands-on experience, we have built a strong reputation for precision, reliability, and excellence.
         </p>
 
         <p class="font-poppins text-gray-600 text-sm sm:text-base leading-relaxed mb-6">
@@ -242,7 +242,7 @@ include "./whatsapp.php"
     <div class="flex flex-col items-center mb-14">
       <div class="w-16 h-[3px] bg-[#192653] mb-4 rounded-full"></div>
       <h2 class="font-poppins font-semibold text-[#192653] text-2xl sm:text-3xl tracking-widest uppercase">Why Choose Us</h2>
-      <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">What Sets Global Trading Company Apart</p>
+      <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">What Sets Maritex Shipping Company  Apart</p>
     </div>
 
     <!-- Top — Full Width Banner -->
@@ -547,7 +547,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            Global Trading Company provided exceptional engine reconditioning services for our bulk carrier. Their team diagnosed and resolved a complex crankshaft issue within 48 hours — zero downtime beyond schedule. Highly professional and reliable.
+            Maritex Shipping Company provided exceptional engine reconditioning services for our bulk carrier. Their team diagnosed and resolved a complex crankshaft issue within 48 hours — zero downtime beyond schedule. Highly professional and reliable.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">

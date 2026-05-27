@@ -6,7 +6,7 @@
     <div class="flex flex-col items-center mb-12">
       <div class="w-16 h-[3px] bg-[#254991] mb-4 rounded-full"></div>
       <h2 class="font-poppins font-semibold text-[#254991] text-2xl sm:text-3xl tracking-widest uppercase">Trusted By</h2>
-      <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">Companies That Trust Global Trading Company</p>
+      <p class="font-poppins text-gray-500 text-sm mt-3 tracking-wide">Companies That Trust Maritex Shipping Companyy</p>
     </div>
 
   </div>
