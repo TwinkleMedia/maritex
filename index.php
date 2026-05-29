@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Martex Shipping Company</title>
+  <title>Maritex Shipping Company</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet"/>
   <script>
@@ -29,14 +29,26 @@ include "./navbar.php"
 include "./whatsapp.php"
 ?>
 <!-- HERO SECTION -->
+<!-- HERO SECTION -->
 <section class="relative w-full h-[75vh] flex flex-col overflow-hidden">
-  <!-- Background Image -->
+  <!-- Background Video -->
   <div class="absolute inset-0 overflow-hidden">
-    <img
-      src="./assets/ship.jpg"
-      alt="Marine Engineering"
+    <video
+      autoplay
+      muted
+      loop
+      playsinline
       class="w-full h-full object-cover object-center"
-    />
+    >
+      <source src="./assets/ship.mp4" type="video/mp4" />
+      <source src="./assets/ship.mp4" type="video/webm" />
+      <!-- Fallback image if video doesn't load -->
+      <img
+        src="./assets/ship.jpg"
+        alt="Marine Engineering"
+        class="w-full h-full object-cover object-center"
+      />
+    </video>
     <!-- Dark overlay -->
     <div class="absolute inset-0 bg-gradient-to-r from-[#0a1a3a]/90 via-[#192653]/65 to-[#0a1a3a]/40"></div>
   </div>
@@ -71,7 +83,7 @@ include "./whatsapp.php"
     <!-- CTA Buttons -->
     <div class="flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
       <a href="./ourservies.php"
-        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase bg-[#192653] hover:bg-[#1a3570] text-white px-6 py-3 rounded-lg transition-all duration-300 shadow-lg text-center">
+        class="font-poppins font-semibold text-xs sm:text-sm tracking-widest uppercase bg-white hover:bg-[#1a3570] text-[#1a3570] px-6 py-3 rounded-lg transition-all duration-300 shadow-lg text-center">
         Our Services
       </a>
       <a href="./contactus.php"
@@ -81,8 +93,6 @@ include "./whatsapp.php"
     </div>
 
   </div>
-
-  
 
 </section>
 

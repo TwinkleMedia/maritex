@@ -19,14 +19,14 @@
 </head>
 <body class="font-poppins bg-white">
 
-<!-- ===================== NAVBAR PLACEHOLDER ===================== -->
+<!-- ========================================= NAVBAR PLACEHOLDER ========================================================= -->
 <?php include "./navbar.php" ?>
 
 <?php 
 include "./whatsapp.php"
 ?>
 
-<!-- ===================== HERO SECTION ===================== -->
+<!-- =========================================== HERO SECTION ============================================================= -->
 <section class="relative w-full h-[65vh] flex flex-col overflow-hidden">
 
   <!-- Background Image -->
@@ -100,7 +100,7 @@ include "./whatsapp.php"
 </section>
 
 
-<!-- ===================== CONTACT SECTION ===================== -->
+<!-- ========================================== CONTACT SECTION ================================================== -->
 <section class="w-full py-16 bg-white">
   <div class="max-w-6xl mx-auto px-6 md:px-10">
 
@@ -215,7 +215,7 @@ include "./whatsapp.php"
 
       </div>
 
-      <!-- ===== RIGHT: Contact Form ===== -->
+      <!-- ======================================== RIGHT: Contact Form ==================================================== -->
       <div class="lg:col-span-3">
         <div class="bg-white border border-gray-100 rounded-2xl shadow-sm p-7 sm:p-9 hover:shadow-lg transition-shadow duration-300">
 
@@ -293,7 +293,7 @@ include "./whatsapp.php"
 
             </div>
 
-            <!-- Row 3: Service + Vessel Type -->
+            <!---------------------------------------- Row 3: Service + Vessel Type -------------------------------------------------->
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
 
               <div class="flex flex-col gap-1.5">
@@ -381,7 +381,7 @@ include "./whatsapp.php"
 
           </form>
 
-          <!-- Success Message (hidden by default) -->
+          <!----------------------------------- Success Message (hidden by default) --------------------------------------------->
           <div id="successMsg" class="hidden mt-5 bg-green-50 border border-green-200 rounded-xl px-5 py-4 flex items-start gap-3">
             <div class="flex-shrink-0 w-8 h-8 rounded-full bg-green-100 flex items-center justify-center mt-0.5">
               <svg class="w-4 h-4 text-green-600" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24">
@@ -403,7 +403,7 @@ include "./whatsapp.php"
 </section>
 
 
-<!-- ===================== MAP SECTION ===================== -->
+<!-- ==================================================== MAP SECTION ======================================================= -->
 <section class="w-full bg-gray-50 py-16">
   <div class="max-w-6xl mx-auto px-6 md:px-10">
 
@@ -437,9 +437,9 @@ include "./whatsapp.php"
 
   </div>
 </section>
-<!-- ===================== FOOTER PLACEHOLDER ===================== -->
+<!-- ======================================= FOOTER PLACEHOLDER ============================================ -->
 <?php include "./footer.php" ?>
-<!-- ===================== FORM VALIDATION SCRIPT ===================== -->
+<!-- ===================================== FORM VALIDATION SCRIPT ========================================== -->
 <script>
   function handleSubmit(e) {
     e.preventDefault();
