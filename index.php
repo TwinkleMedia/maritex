@@ -567,7 +567,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            We engaged GTC for a full electrical and automation overhaul on our tanker fleet. Their engineers were meticulous, well-prepared, and completed every job on time. Their 24/7 support is a genuine lifesaver in international waters.
+            We engaged  for a full electrical and automation overhaul on our tanker fleet. Their engineers were meticulous, well-prepared, and completed every job on time. Their 24/7 support is a genuine lifesaver in international waters.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
@@ -587,7 +587,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            Their marine consultancy team identified structural inefficiencies that had gone unnoticed for years. The recommendations led to a measurable reduction in fuel consumption. GTC is now our go-to partner for all technical assessments.
+            Their marine consultancy team identified structural inefficiencies that had gone unnoticed for years. The recommendations led to a measurable reduction in fuel consumption. is now our go-to partner for all technical assessments.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
@@ -607,7 +607,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            From hydraulic systems repair to condition monitoring, GTC handles everything with precision. They serviced three of our vessels in a single port call — logistics were flawless. Truly a world-class marine engineering team.
+            From hydraulic systems repair to condition monitoring, handles everything with precision. They serviced three of our vessels in a single port call — logistics were flawless. Truly a world-class marine engineering team.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
@@ -627,7 +627,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            GTC's reconditioning workshop is second to none. They rebuilt our main engine components to OEM standards at a fraction of the cost of replacement. Exceptional quality, honest timelines, and outstanding communication throughout.
+             reconditioning workshop is second to none. They rebuilt our main engine components to OEM standards at a fraction of the cost of replacement. Exceptional quality, honest timelines, and outstanding communication throughout.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">
@@ -647,7 +647,7 @@ include "./clients.php"
             <span class="text-amber-400 text-sm">★★★★★</span>
           </div>
           <p class="font-poppins text-gray-600 text-sm leading-relaxed flex-1">
-            We've worked with many marine engineering firms across 30 years — GTC stands apart. Their master mariners understand operational realities, not just technical specs. The diagnostic services have transformed our maintenance planning.
+            We've worked with many marine engineering firms across 30 years —  stands apart. Their master mariners understand operational realities, not just technical specs. The diagnostic services have transformed our maintenance planning.
           </p>
           <div class="flex items-center gap-3 pt-4 border-t border-gray-100">
             <div class="w-10 h-10 rounded-full bg-[#192653] flex items-center justify-center flex-shrink-0">

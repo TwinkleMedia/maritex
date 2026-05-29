@@ -166,7 +166,7 @@
               </svg>
             </div>
             <p class="font-poppins text-white/60 text-sm leading-relaxed">
-             Maritex Shipping Pvt Ltd , 303 , Nivana Apartment Morabadi , Ranchi , Jharkhand , 834008  <br/>  
+             Office No - 13 Sanjivani Centre Plot No - F/03 Sector-12 Kharghar Navi Mumbai - 410210 <br/>  
             </p>
           </li>
 
