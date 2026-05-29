@@ -4,6 +4,8 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Contact Us — Maritex Shipping Company</title>
+  <meta property="og:title" content="Maritex Shipping Company">
+<meta name="twitter:title" content="Maritex Shipping Company">
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet"/>
   <script>
@@ -89,7 +91,7 @@ include "./whatsapp.php"
         <svg class="w-3.5 h-3.5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0zM15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
         </svg>
-        
+
  
       </span>
     </div>
