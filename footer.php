@@ -166,7 +166,7 @@
               </svg>
             </div>
             <p class="font-poppins text-white/60 text-sm leading-relaxed">
-             Office No - 13 Sanjivani Centre Plot No - F/03 Sector-12 Kharghar Navi Mumbai - 410210 <br/>  
+             Maritex Shipping Pvt Ltd, 303, Nirvana Apartment Morabadi,Ranchi,Jharkhand  834008 <br/>  
             </p>
           </li>
 
