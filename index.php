@@ -31,7 +31,6 @@ include "./navbar.php"
 include "./whatsapp.php"
 ?>
 <!-- HERO SECTION -->
-<!-- HERO SECTION -->
 <section class="relative w-full h-[75vh] flex flex-col overflow-hidden">
   <!-- Background Video -->
   <div class="absolute inset-0 overflow-hidden">

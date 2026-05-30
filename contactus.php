@@ -85,7 +85,7 @@ include "./whatsapp.php"
         <svg class="w-3.5 h-3.5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
         </svg>
-        abhilashme01@gmail.com
+        info@maritexshipping.com
       </a>
       <span class="flex items-center gap-2 bg-white/10 border border-white/20 backdrop-blur-sm text-white text-xs px-4 py-2 rounded-full">
         <svg class="w-3.5 h-3.5 text-[#7eb3ff]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">

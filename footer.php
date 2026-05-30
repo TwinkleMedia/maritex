@@ -188,7 +188,7 @@
               </svg>
             </div>
             <a href="mailto:info@globaltradingco.com" class="font-poppins text-white/60 text-sm hover:text-white transition-colors duration-300">
-              Abhilashme01@gmail.com
+              info@maritexshipping.com
             </a>
           </li>
 
