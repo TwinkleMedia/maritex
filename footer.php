@@ -166,7 +166,7 @@
               </svg>
             </div>
             <p class="font-poppins text-white/60 text-sm leading-relaxed">
-             Maritex Shipping Pvt Ltd, 303, Nirvana Apartment Morabadi,Ranchi,Jharkhand  834008 <br/>  
+             Pujit Plaza , Office No .408 , Sec-11 , CBD Belapur , Navi Mumbai , Maharashtra , india-400614<br/>  
             </p>
           </li>
 
@@ -177,7 +177,7 @@
               </svg>
             </div>
             <a href="tel:+912212345678" class="font-poppins text-white/60 text-sm hover:text-white transition-colors duration-300">
-              +91 7250223300
+              +91 7250669444
             </a>
           </li>
 
