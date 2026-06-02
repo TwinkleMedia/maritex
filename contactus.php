@@ -144,7 +144,7 @@ include "./whatsapp.php"
             </div>
             <div>
               <p class="font-poppins text-[10px] tracking-widest uppercase text-gray-400 mb-0.5">Phone</p>
-              <a href="tel:+911234567890" class="font-poppins font-semibold text-[#192653] text-sm hover:opacity-70 transition-opacity">+91 12345 67890</a>
+              <a href="tel:+911234567890" class="font-poppins font-semibold text-[#192653] text-sm hover:opacity-70 transition-opacity">+91 7250669444</a>
               <p class="font-poppins text-gray-400 text-xs mt-0.5">Available 24/7</p>
             </div>
           </div>
